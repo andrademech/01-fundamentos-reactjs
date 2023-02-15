@@ -1,6 +1,6 @@
-  # Blog de Posts
+# Blog de Posts
 
-This project was build using React. Only form first steps studying React.
+This project was build using React.
 
 ## Deploy
 
